@@ -128,6 +128,7 @@ function flushBufferToFile() {
         // Any new ticks appended to item.ticks while stringifying remain safely in the array!
         item.ticks.splice(0, countToFlush);
     });
+    console.log("Flushing");
 
     if (rowsToWrite.length > 0) {
         fs.appendFile(filePath, rowsToWrite.join(""), (err) => {
@@ -232,6 +233,7 @@ priceEmitter.on("GLOBAL_TICK", (tick) => {
             lastOI: 0,
             ticks: []
         };
+        console.log("TickBuffer Initilalised");
     }
 
     // Append LTP tick entry to memory buffer array
@@ -250,13 +252,13 @@ priceEmitter.on("GLOBAL_TICK", (tick) => {
     });
 
     if (securityIdMap[secId]) {
-        console.log({
-            security: tick.security_id,
-            ltp: tick.ltp,
-            activeTrades: Object.keys(activeTrades).length,
-            entry_price: securityIdMap[secId]?.entryPrice,
-            exit_price: securityIdMap[secId]?.targetPrice,
-        });
+        // console.log({
+        //     security: tick.security_id,
+        //     ltp: tick.ltp,
+        //     activeTrades: Object.keys(activeTrades).length,
+        //     entry_price: securityIdMap[secId]?.entryPrice,
+        //     exit_price: securityIdMap[secId]?.targetPrice,
+        // });
     }
 });
 
