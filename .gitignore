@@ -1,0 +1,14 @@
+node_modules
+dynamic_data/paper_trades11
+dynamic_data/paper_trades13
+dynamic_data/paper_trades15
+dynamic_data/paper_trades17a
+dynamic_data/paper_trades17b
+dynamic_data/paper_trades17b2
+bin
+dynamic_data/socket_logs
+eleventh-instance/logs
+fifteenth-instance/logs
+thirteenth-instance/logs
+# **/temp_scanoi
+**/scanner

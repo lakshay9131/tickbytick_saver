@@ -1,0 +1,1655 @@
+{
+  "timestamp": 1786564208949,
+  "data": {
+    "NIFTY": {
+      "symbol": "NIFTY",
+      "expiry": "18-08-2026",
+      "commonSpotPrice": 24303.55,
+      "totalStrikes": 51,
+      "totalContracts": 102,
+      "contracts": [
+        {
+          "strike": 23050,
+          "optionType": "CE",
+          "securityId": 45043,
+          "pmlSymbol": "NIFTY-Aug2026-23050-CE",
+          "premium": 1255.65,
+          "volume": 0
+        },
+        {
+          "strike": 23050,
+          "optionType": "PE",
+          "securityId": 45044,
+          "pmlSymbol": "NIFTY-Aug2026-23050-PE",
+          "premium": 1.6,
+          "volume": 2255565
+        },
+        {
+          "strike": 23100,
+          "optionType": "CE",
+          "securityId": 45045,
+          "pmlSymbol": "NIFTY-Aug2026-23100-CE",
+          "premium": 1400,
+          "volume": 0
+        },
+        {
+          "strike": 23100,
+          "optionType": "PE",
+          "securityId": 45046,
+          "pmlSymbol": "NIFTY-Aug2026-23100-PE",
+          "premium": 1.9,
+          "volume": 4611165
+        },
+        {
+          "strike": 23150,
+          "optionType": "CE",
+          "securityId": 45047,
+          "pmlSymbol": "NIFTY-Aug2026-23150-CE",
+          "premium": 1432.75,
+          "volume": 0
+        },
+        {
+          "strike": 23150,
+          "optionType": "PE",
+          "securityId": 45048,
+          "pmlSymbol": "NIFTY-Aug2026-23150-PE",
+          "premium": 1.8,
+          "volume": 2802410
+        },
+        {
+          "strike": 23200,
+          "optionType": "CE",
+          "securityId": 45049,
+          "pmlSymbol": "NIFTY-Aug2026-23200-CE",
+          "premium": 1202.8,
+          "volume": 1625
+        },
+        {
+          "strike": 23200,
+          "optionType": "PE",
+          "securityId": 45050,
+          "pmlSymbol": "NIFTY-Aug2026-23200-PE",
+          "premium": 2.2,
+          "volume": 10925330
+        },
+        {
+          "strike": 23250,
+          "optionType": "CE",
+          "securityId": 45052,
+          "pmlSymbol": "NIFTY-Aug2026-23250-CE",
+          "premium": 1144,
+          "volume": 845
+        },
+        {
+          "strike": 23250,
+          "optionType": "PE",
+          "securityId": 45053,
+          "pmlSymbol": "NIFTY-Aug2026-23250-PE",
+          "premium": 2.05,
+          "volume": 5427565
+        },
+        {
+          "strike": 23300,
+          "optionType": "CE",
+          "securityId": 45054,
+          "pmlSymbol": "NIFTY-Aug2026-23300-CE",
+          "premium": 1054.05,
+          "volume": 65
+        },
+        {
+          "strike": 23300,
+          "optionType": "PE",
+          "securityId": 45055,
+          "pmlSymbol": "NIFTY-Aug2026-23300-PE",
+          "premium": 2.25,
+          "volume": 14572155
+        },
+        {
+          "strike": 23350,
+          "optionType": "CE",
+          "securityId": 45056,
+          "pmlSymbol": "NIFTY-Aug2026-23350-CE",
+          "premium": 1081.25,
+          "volume": 390
+        },
+        {
+          "strike": 23350,
+          "optionType": "PE",
+          "securityId": 45057,
+          "pmlSymbol": "NIFTY-Aug2026-23350-PE",
+          "premium": 2.05,
+          "volume": 7609095
+        },
+        {
+          "strike": 23400,
+          "optionType": "CE",
+          "securityId": 45058,
+          "pmlSymbol": "NIFTY-Aug2026-23400-CE",
+          "premium": 1045.7,
+          "volume": 19240
+        },
+        {
+          "strike": 23400,
+          "optionType": "PE",
+          "securityId": 45059,
+          "pmlSymbol": "NIFTY-Aug2026-23400-PE",
+          "premium": 2.4,
+          "volume": 14451255
+        },
+        {
+          "strike": 23450,
+          "optionType": "CE",
+          "securityId": 45060,
+          "pmlSymbol": "NIFTY-Aug2026-23450-CE",
+          "premium": 951,
+          "volume": 0
+        },
+        {
+          "strike": 23450,
+          "optionType": "PE",
+          "securityId": 45061,
+          "pmlSymbol": "NIFTY-Aug2026-23450-PE",
+          "premium": 2.6,
+          "volume": 6699745
+        },
+        {
+          "strike": 23500,
+          "optionType": "CE",
+          "securityId": 45065,
+          "pmlSymbol": "NIFTY-Aug2026-23500-CE",
+          "premium": 951,
+          "volume": 88725
+        },
+        {
+          "strike": 23500,
+          "optionType": "PE",
+          "securityId": 45066,
+          "pmlSymbol": "NIFTY-Aug2026-23500-PE",
+          "premium": 2.95,
+          "volume": 27401855
+        },
+        {
+          "strike": 23550,
+          "optionType": "CE",
+          "securityId": 45067,
+          "pmlSymbol": "NIFTY-Aug2026-23550-CE",
+          "premium": 916.9,
+          "volume": 3575
+        },
+        {
+          "strike": 23550,
+          "optionType": "PE",
+          "securityId": 45068,
+          "pmlSymbol": "NIFTY-Aug2026-23550-PE",
+          "premium": 3.3,
+          "volume": 8077745
+        },
+        {
+          "strike": 23600,
+          "optionType": "CE",
+          "securityId": 45069,
+          "pmlSymbol": "NIFTY-Aug2026-23600-CE",
+          "premium": 846.2,
+          "volume": 13130
+        },
+        {
+          "strike": 23600,
+          "optionType": "PE",
+          "securityId": 45070,
+          "pmlSymbol": "NIFTY-Aug2026-23600-PE",
+          "premium": 3.4,
+          "volume": 28766010
+        },
+        {
+          "strike": 23650,
+          "optionType": "CE",
+          "securityId": 45071,
+          "pmlSymbol": "NIFTY-Aug2026-23650-CE",
+          "premium": 804.9,
+          "volume": 3445
+        },
+        {
+          "strike": 23650,
+          "optionType": "PE",
+          "securityId": 45072,
+          "pmlSymbol": "NIFTY-Aug2026-23650-PE",
+          "premium": 3.65,
+          "volume": 16702985
+        },
+        {
+          "strike": 23700,
+          "optionType": "CE",
+          "securityId": 45074,
+          "pmlSymbol": "NIFTY-Aug2026-23700-CE",
+          "premium": 751.5,
+          "volume": 50830
+        },
+        {
+          "strike": 23700,
+          "optionType": "PE",
+          "securityId": 45075,
+          "pmlSymbol": "NIFTY-Aug2026-23700-PE",
+          "premium": 4.55,
+          "volume": 25917385
+        },
+        {
+          "strike": 23750,
+          "optionType": "CE",
+          "securityId": 45076,
+          "pmlSymbol": "NIFTY-Aug2026-23750-CE",
+          "premium": 700.3,
+          "volume": 9425
+        },
+        {
+          "strike": 23750,
+          "optionType": "PE",
+          "securityId": 45077,
+          "pmlSymbol": "NIFTY-Aug2026-23750-PE",
+          "premium": 5,
+          "volume": 17016025
+        },
+        {
+          "strike": 23800,
+          "optionType": "CE",
+          "securityId": 45078,
+          "pmlSymbol": "NIFTY-Aug2026-23800-CE",
+          "premium": 650.35,
+          "volume": 165620
+        },
+        {
+          "strike": 23800,
+          "optionType": "PE",
+          "securityId": 45079,
+          "pmlSymbol": "NIFTY-Aug2026-23800-PE",
+          "premium": 6.05,
+          "volume": 43303455
+        },
+        {
+          "strike": 23850,
+          "optionType": "CE",
+          "securityId": 45080,
+          "pmlSymbol": "NIFTY-Aug2026-23850-CE",
+          "premium": 602.1,
+          "volume": 41600
+        },
+        {
+          "strike": 23850,
+          "optionType": "PE",
+          "securityId": 45081,
+          "pmlSymbol": "NIFTY-Aug2026-23850-PE",
+          "premium": 7.1,
+          "volume": 19606990
+        },
+        {
+          "strike": 23900,
+          "optionType": "CE",
+          "securityId": 45082,
+          "pmlSymbol": "NIFTY-Aug2026-23900-CE",
+          "premium": 553.05,
+          "volume": 360490
+        },
+        {
+          "strike": 23900,
+          "optionType": "PE",
+          "securityId": 45083,
+          "pmlSymbol": "NIFTY-Aug2026-23900-PE",
+          "premium": 8.7,
+          "volume": 41831920
+        },
+        {
+          "strike": 23950,
+          "optionType": "CE",
+          "securityId": 45084,
+          "pmlSymbol": "NIFTY-Aug2026-23950-CE",
+          "premium": 508.6,
+          "volume": 163670
+        },
+        {
+          "strike": 23950,
+          "optionType": "PE",
+          "securityId": 45085,
+          "pmlSymbol": "NIFTY-Aug2026-23950-PE",
+          "premium": 11.35,
+          "volume": 25369565
+        },
+        {
+          "strike": 24000,
+          "optionType": "CE",
+          "securityId": 45086,
+          "pmlSymbol": "NIFTY-Aug2026-24000-CE",
+          "premium": 461.55,
+          "volume": 3606200
+        },
+        {
+          "strike": 24000,
+          "optionType": "PE",
+          "securityId": 45091,
+          "pmlSymbol": "NIFTY-Aug2026-24000-PE",
+          "premium": 14.55,
+          "volume": 79942460
+        },
+        {
+          "strike": 24050,
+          "optionType": "CE",
+          "securityId": 45092,
+          "pmlSymbol": "NIFTY-Aug2026-24050-CE",
+          "premium": 413.1,
+          "volume": 633425
+        },
+        {
+          "strike": 24050,
+          "optionType": "PE",
+          "securityId": 45093,
+          "pmlSymbol": "NIFTY-Aug2026-24050-PE",
+          "premium": 18,
+          "volume": 31059795
+        },
+        {
+          "strike": 24100,
+          "optionType": "CE",
+          "securityId": 45094,
+          "pmlSymbol": "NIFTY-Aug2026-24100-CE",
+          "premium": 369.2,
+          "volume": 3740035
+        },
+        {
+          "strike": 24100,
+          "optionType": "PE",
+          "securityId": 45095,
+          "pmlSymbol": "NIFTY-Aug2026-24100-PE",
+          "premium": 23.65,
+          "volume": 49782395
+        },
+        {
+          "strike": 24150,
+          "optionType": "CE",
+          "securityId": 45096,
+          "pmlSymbol": "NIFTY-Aug2026-24150-CE",
+          "premium": 326.45,
+          "volume": 2886715
+        },
+        {
+          "strike": 24150,
+          "optionType": "PE",
+          "securityId": 45097,
+          "pmlSymbol": "NIFTY-Aug2026-24150-PE",
+          "premium": 31,
+          "volume": 36036065
+        },
+        {
+          "strike": 24200,
+          "optionType": "CE",
+          "securityId": 45098,
+          "pmlSymbol": "NIFTY-Aug2026-24200-CE",
+          "premium": 285.95,
+          "volume": 20859605
+        },
+        {
+          "strike": 24200,
+          "optionType": "PE",
+          "securityId": 45099,
+          "pmlSymbol": "NIFTY-Aug2026-24200-PE",
+          "premium": 39.25,
+          "volume": 86932885
+        },
+        {
+          "strike": 24250,
+          "optionType": "CE",
+          "securityId": 45100,
+          "pmlSymbol": "NIFTY-Aug2026-24250-CE",
+          "premium": 247,
+          "volume": 23892245
+        },
+        {
+          "strike": 24250,
+          "optionType": "PE",
+          "securityId": 45101,
+          "pmlSymbol": "NIFTY-Aug2026-24250-PE",
+          "premium": 50.1,
+          "volume": 79365585
+        },
+        {
+          "strike": 24300,
+          "optionType": "CE",
+          "securityId": 45102,
+          "pmlSymbol": "NIFTY-Aug2026-24300-CE",
+          "premium": 211,
+          "volume": 83452590
+        },
+        {
+          "strike": 24300,
+          "optionType": "PE",
+          "securityId": 45103,
+          "pmlSymbol": "NIFTY-Aug2026-24300-PE",
+          "premium": 64.75,
+          "volume": 152842690
+        },
+        {
+          "strike": 24350,
+          "optionType": "CE",
+          "securityId": 45104,
+          "pmlSymbol": "NIFTY-Aug2026-24350-CE",
+          "premium": 177.95,
+          "volume": 61930440
+        },
+        {
+          "strike": 24350,
+          "optionType": "PE",
+          "securityId": 45105,
+          "pmlSymbol": "NIFTY-Aug2026-24350-PE",
+          "premium": 81,
+          "volume": 104025675
+        },
+        {
+          "strike": 24400,
+          "optionType": "CE",
+          "securityId": 45106,
+          "pmlSymbol": "NIFTY-Aug2026-24400-CE",
+          "premium": 147.6,
+          "volume": 133295240
+        },
+        {
+          "strike": 24400,
+          "optionType": "PE",
+          "securityId": 45107,
+          "pmlSymbol": "NIFTY-Aug2026-24400-PE",
+          "premium": 100.85,
+          "volume": 156887900
+        },
+        {
+          "strike": 24450,
+          "optionType": "CE",
+          "securityId": 45108,
+          "pmlSymbol": "NIFTY-Aug2026-24450-CE",
+          "premium": 121.1,
+          "volume": 77640420
+        },
+        {
+          "strike": 24450,
+          "optionType": "PE",
+          "securityId": 45109,
+          "pmlSymbol": "NIFTY-Aug2026-24450-PE",
+          "premium": 124.4,
+          "volume": 73419515
+        },
+        {
+          "strike": 24500,
+          "optionType": "CE",
+          "securityId": 45110,
+          "pmlSymbol": "NIFTY-Aug2026-24500-CE",
+          "premium": 98.35,
+          "volume": 129229945
+        },
+        {
+          "strike": 24500,
+          "optionType": "PE",
+          "securityId": 45111,
+          "pmlSymbol": "NIFTY-Aug2026-24500-PE",
+          "premium": 150.25,
+          "volume": 78883610
+        },
+        {
+          "strike": 24550,
+          "optionType": "CE",
+          "securityId": 45112,
+          "pmlSymbol": "NIFTY-Aug2026-24550-CE",
+          "premium": 77.9,
+          "volume": 51617085
+        },
+        {
+          "strike": 24550,
+          "optionType": "PE",
+          "securityId": 45115,
+          "pmlSymbol": "NIFTY-Aug2026-24550-PE",
+          "premium": 180.65,
+          "volume": 16305445
+        },
+        {
+          "strike": 24600,
+          "optionType": "CE",
+          "securityId": 45116,
+          "pmlSymbol": "NIFTY-Aug2026-24600-CE",
+          "premium": 60.3,
+          "volume": 77747605
+        },
+        {
+          "strike": 24600,
+          "optionType": "PE",
+          "securityId": 45117,
+          "pmlSymbol": "NIFTY-Aug2026-24600-PE",
+          "premium": 213.05,
+          "volume": 21503040
+        },
+        {
+          "strike": 24650,
+          "optionType": "CE",
+          "securityId": 45120,
+          "pmlSymbol": "NIFTY-Aug2026-24650-CE",
+          "premium": 46.15,
+          "volume": 38625145
+        },
+        {
+          "strike": 24650,
+          "optionType": "PE",
+          "securityId": 45121,
+          "pmlSymbol": "NIFTY-Aug2026-24650-PE",
+          "premium": 248.2,
+          "volume": 3786575
+        },
+        {
+          "strike": 24700,
+          "optionType": "CE",
+          "securityId": 45122,
+          "pmlSymbol": "NIFTY-Aug2026-24700-CE",
+          "premium": 35.1,
+          "volume": 59793955
+        },
+        {
+          "strike": 24700,
+          "optionType": "PE",
+          "securityId": 45123,
+          "pmlSymbol": "NIFTY-Aug2026-24700-PE",
+          "premium": 287.65,
+          "volume": 5248815
+        },
+        {
+          "strike": 24750,
+          "optionType": "CE",
+          "securityId": 45132,
+          "pmlSymbol": "NIFTY-Aug2026-24750-CE",
+          "premium": 25.95,
+          "volume": 31565755
+        },
+        {
+          "strike": 24750,
+          "optionType": "PE",
+          "securityId": 45133,
+          "pmlSymbol": "NIFTY-Aug2026-24750-PE",
+          "premium": 330.15,
+          "volume": 839865
+        },
+        {
+          "strike": 24800,
+          "optionType": "CE",
+          "securityId": 45140,
+          "pmlSymbol": "NIFTY-Aug2026-24800-CE",
+          "premium": 19.4,
+          "volume": 54581930
+        },
+        {
+          "strike": 24800,
+          "optionType": "PE",
+          "securityId": 45141,
+          "pmlSymbol": "NIFTY-Aug2026-24800-PE",
+          "premium": 371.35,
+          "volume": 1732445
+        },
+        {
+          "strike": 24850,
+          "optionType": "CE",
+          "securityId": 45142,
+          "pmlSymbol": "NIFTY-Aug2026-24850-CE",
+          "premium": 13.9,
+          "volume": 27985425
+        },
+        {
+          "strike": 24850,
+          "optionType": "PE",
+          "securityId": 45143,
+          "pmlSymbol": "NIFTY-Aug2026-24850-PE",
+          "premium": 418,
+          "volume": 231725
+        },
+        {
+          "strike": 24900,
+          "optionType": "CE",
+          "securityId": 45144,
+          "pmlSymbol": "NIFTY-Aug2026-24900-CE",
+          "premium": 10.45,
+          "volume": 37195730
+        },
+        {
+          "strike": 24900,
+          "optionType": "PE",
+          "securityId": 45145,
+          "pmlSymbol": "NIFTY-Aug2026-24900-PE",
+          "premium": 462.4,
+          "volume": 560430
+        },
+        {
+          "strike": 24950,
+          "optionType": "CE",
+          "securityId": 45146,
+          "pmlSymbol": "NIFTY-Aug2026-24950-CE",
+          "premium": 7.9,
+          "volume": 20963930
+        },
+        {
+          "strike": 24950,
+          "optionType": "PE",
+          "securityId": 45147,
+          "pmlSymbol": "NIFTY-Aug2026-24950-PE",
+          "premium": 511.9,
+          "volume": 75270
+        },
+        {
+          "strike": 25000,
+          "optionType": "CE",
+          "securityId": 45148,
+          "pmlSymbol": "NIFTY-Aug2026-25000-CE",
+          "premium": 6.45,
+          "volume": 53575860
+        },
+        {
+          "strike": 25000,
+          "optionType": "PE",
+          "securityId": 45149,
+          "pmlSymbol": "NIFTY-Aug2026-25000-PE",
+          "premium": 559.75,
+          "volume": 671645
+        },
+        {
+          "strike": 25050,
+          "optionType": "CE",
+          "securityId": 45150,
+          "pmlSymbol": "NIFTY-Aug2026-25050-CE",
+          "premium": 4.85,
+          "volume": 23631010
+        },
+        {
+          "strike": 25050,
+          "optionType": "PE",
+          "securityId": 45151,
+          "pmlSymbol": "NIFTY-Aug2026-25050-PE",
+          "premium": 605.75,
+          "volume": 38545
+        },
+        {
+          "strike": 25100,
+          "optionType": "CE",
+          "securityId": 45152,
+          "pmlSymbol": "NIFTY-Aug2026-25100-CE",
+          "premium": 3.85,
+          "volume": 37267295
+        },
+        {
+          "strike": 25100,
+          "optionType": "PE",
+          "securityId": 45153,
+          "pmlSymbol": "NIFTY-Aug2026-25100-PE",
+          "premium": 654.7,
+          "volume": 47905
+        },
+        {
+          "strike": 25150,
+          "optionType": "CE",
+          "securityId": 45154,
+          "pmlSymbol": "NIFTY-Aug2026-25150-CE",
+          "premium": 3.3,
+          "volume": 33334405
+        },
+        {
+          "strike": 25150,
+          "optionType": "PE",
+          "securityId": 45155,
+          "pmlSymbol": "NIFTY-Aug2026-25150-PE",
+          "premium": 705.7,
+          "volume": 24050
+        },
+        {
+          "strike": 25200,
+          "optionType": "CE",
+          "securityId": 45156,
+          "pmlSymbol": "NIFTY-Aug2026-25200-CE",
+          "premium": 2.4,
+          "volume": 48683765
+        },
+        {
+          "strike": 25200,
+          "optionType": "PE",
+          "securityId": 45157,
+          "pmlSymbol": "NIFTY-Aug2026-25200-PE",
+          "premium": 754.1,
+          "volume": 41925
+        },
+        {
+          "strike": 25250,
+          "optionType": "CE",
+          "securityId": 45158,
+          "pmlSymbol": "NIFTY-Aug2026-25250-CE",
+          "premium": 2.2,
+          "volume": 27807585
+        },
+        {
+          "strike": 25250,
+          "optionType": "PE",
+          "securityId": 45159,
+          "pmlSymbol": "NIFTY-Aug2026-25250-PE",
+          "premium": 802.6,
+          "volume": 17420
+        },
+        {
+          "strike": 25300,
+          "optionType": "CE",
+          "securityId": 45162,
+          "pmlSymbol": "NIFTY-Aug2026-25300-CE",
+          "premium": 1.85,
+          "volume": 41695355
+        },
+        {
+          "strike": 25300,
+          "optionType": "PE",
+          "securityId": 45163,
+          "pmlSymbol": "NIFTY-Aug2026-25300-PE",
+          "premium": 864.05,
+          "volume": 17680
+        },
+        {
+          "strike": 25350,
+          "optionType": "CE",
+          "securityId": 45164,
+          "pmlSymbol": "NIFTY-Aug2026-25350-CE",
+          "premium": 1.65,
+          "volume": 23290020
+        },
+        {
+          "strike": 25350,
+          "optionType": "PE",
+          "securityId": 45165,
+          "pmlSymbol": "NIFTY-Aug2026-25350-PE",
+          "premium": 930.8,
+          "volume": 5590
+        },
+        {
+          "strike": 25400,
+          "optionType": "CE",
+          "securityId": 45166,
+          "pmlSymbol": "NIFTY-Aug2026-25400-CE",
+          "premium": 1.55,
+          "volume": 32649110
+        },
+        {
+          "strike": 25400,
+          "optionType": "PE",
+          "securityId": 45167,
+          "pmlSymbol": "NIFTY-Aug2026-25400-PE",
+          "premium": 957.8,
+          "volume": 3835
+        },
+        {
+          "strike": 25450,
+          "optionType": "CE",
+          "securityId": 45168,
+          "pmlSymbol": "NIFTY-Aug2026-25450-CE",
+          "premium": 1.4,
+          "volume": 7592455
+        },
+        {
+          "strike": 25450,
+          "optionType": "PE",
+          "securityId": 45169,
+          "pmlSymbol": "NIFTY-Aug2026-25450-PE",
+          "premium": 990.7,
+          "volume": 520
+        },
+        {
+          "strike": 25500,
+          "optionType": "CE",
+          "securityId": 45170,
+          "pmlSymbol": "NIFTY-Aug2026-25500-CE",
+          "premium": 1.35,
+          "volume": 26745680
+        },
+        {
+          "strike": 25500,
+          "optionType": "PE",
+          "securityId": 45171,
+          "pmlSymbol": "NIFTY-Aug2026-25500-PE",
+          "premium": 1050.7,
+          "volume": 17615
+        },
+        {
+          "strike": 25550,
+          "optionType": "CE",
+          "securityId": 45172,
+          "pmlSymbol": "NIFTY-Aug2026-25550-CE",
+          "premium": 1.15,
+          "volume": 4253340
+        },
+        {
+          "strike": 25550,
+          "optionType": "PE",
+          "securityId": 45173,
+          "pmlSymbol": "NIFTY-Aug2026-25550-PE",
+          "premium": 1452.05,
+          "volume": 0
+        }
+      ]
+    },
+    "BANKNIFTY": {
+      "symbol": "BANKNIFTY",
+      "expiry": "25-08-2026",
+      "commonSpotPrice": 57390.4,
+      "totalStrikes": 51,
+      "totalContracts": 102,
+      "contracts": [
+        {
+          "strike": 54900,
+          "optionType": "CE",
+          "securityId": 59002,
+          "pmlSymbol": "BANKNIFTY-Aug2026-54900-CE",
+          "premium": 2851.8,
+          "volume": 0
+        },
+        {
+          "strike": 54900,
+          "optionType": "PE",
+          "securityId": 59003,
+          "pmlSymbol": "BANKNIFTY-Aug2026-54900-PE",
+          "premium": 22.7,
+          "volume": 138210
+        },
+        {
+          "strike": 55000,
+          "optionType": "CE",
+          "securityId": 59004,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55000-CE",
+          "premium": 3010.7,
+          "volume": 23700
+        },
+        {
+          "strike": 55000,
+          "optionType": "PE",
+          "securityId": 59005,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55000-PE",
+          "premium": 23.65,
+          "volume": 1620930
+        },
+        {
+          "strike": 55100,
+          "optionType": "CE",
+          "securityId": 59006,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55100-CE",
+          "premium": 2814,
+          "volume": 30
+        },
+        {
+          "strike": 55100,
+          "optionType": "PE",
+          "securityId": 59007,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55100-PE",
+          "premium": 25.7,
+          "volume": 199290
+        },
+        {
+          "strike": 55200,
+          "optionType": "CE",
+          "securityId": 59008,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55200-CE",
+          "premium": 2634.15,
+          "volume": 0
+        },
+        {
+          "strike": 55200,
+          "optionType": "PE",
+          "securityId": 59009,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55200-PE",
+          "premium": 29.35,
+          "volume": 248550
+        },
+        {
+          "strike": 55300,
+          "optionType": "CE",
+          "securityId": 59010,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55300-CE",
+          "premium": 2177.75,
+          "volume": 0
+        },
+        {
+          "strike": 55300,
+          "optionType": "PE",
+          "securityId": 59011,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55300-PE",
+          "premium": 32.05,
+          "volume": 172530
+        },
+        {
+          "strike": 55400,
+          "optionType": "CE",
+          "securityId": 59012,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55400-CE",
+          "premium": 2248.05,
+          "volume": 0
+        },
+        {
+          "strike": 55400,
+          "optionType": "PE",
+          "securityId": 59013,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55400-PE",
+          "premium": 35.55,
+          "volume": 148050
+        },
+        {
+          "strike": 55500,
+          "optionType": "CE",
+          "securityId": 59014,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55500-CE",
+          "premium": 2535,
+          "volume": 1770
+        },
+        {
+          "strike": 55500,
+          "optionType": "PE",
+          "securityId": 59015,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55500-PE",
+          "premium": 38.65,
+          "volume": 895860
+        },
+        {
+          "strike": 55600,
+          "optionType": "CE",
+          "securityId": 59016,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55600-CE",
+          "premium": 2380,
+          "volume": 210
+        },
+        {
+          "strike": 55600,
+          "optionType": "PE",
+          "securityId": 59021,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55600-PE",
+          "premium": 41.55,
+          "volume": 153090
+        },
+        {
+          "strike": 55700,
+          "optionType": "CE",
+          "securityId": 59022,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55700-CE",
+          "premium": 2237.15,
+          "volume": 90
+        },
+        {
+          "strike": 55700,
+          "optionType": "PE",
+          "securityId": 59024,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55700-PE",
+          "premium": 44.7,
+          "volume": 191070
+        },
+        {
+          "strike": 55800,
+          "optionType": "CE",
+          "securityId": 59025,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55800-CE",
+          "premium": 2268,
+          "volume": 300
+        },
+        {
+          "strike": 55800,
+          "optionType": "PE",
+          "securityId": 59029,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55800-PE",
+          "premium": 52.05,
+          "volume": 225630
+        },
+        {
+          "strike": 55900,
+          "optionType": "CE",
+          "securityId": 59030,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55900-CE",
+          "premium": 2249.05,
+          "volume": 90
+        },
+        {
+          "strike": 55900,
+          "optionType": "PE",
+          "securityId": 59037,
+          "pmlSymbol": "BANKNIFTY-Aug2026-55900-PE",
+          "premium": 58.3,
+          "volume": 202770
+        },
+        {
+          "strike": 56000,
+          "optionType": "CE",
+          "securityId": 59038,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56000-CE",
+          "premium": 2064.9,
+          "volume": 57720
+        },
+        {
+          "strike": 56000,
+          "optionType": "PE",
+          "securityId": 59041,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56000-PE",
+          "premium": 64,
+          "volume": 2138700
+        },
+        {
+          "strike": 56100,
+          "optionType": "CE",
+          "securityId": 59042,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56100-CE",
+          "premium": 1980,
+          "volume": 540
+        },
+        {
+          "strike": 56100,
+          "optionType": "PE",
+          "securityId": 59043,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56100-PE",
+          "premium": 70.25,
+          "volume": 182940
+        },
+        {
+          "strike": 56200,
+          "optionType": "CE",
+          "securityId": 59044,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56200-CE",
+          "premium": 1900,
+          "volume": 1110
+        },
+        {
+          "strike": 56200,
+          "optionType": "PE",
+          "securityId": 59046,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56200-PE",
+          "premium": 79.65,
+          "volume": 306480
+        },
+        {
+          "strike": 56300,
+          "optionType": "CE",
+          "securityId": 59047,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56300-CE",
+          "premium": 1792,
+          "volume": 9450
+        },
+        {
+          "strike": 56300,
+          "optionType": "PE",
+          "securityId": 59048,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56300-PE",
+          "premium": 88.5,
+          "volume": 256110
+        },
+        {
+          "strike": 56400,
+          "optionType": "CE",
+          "securityId": 59049,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56400-CE",
+          "premium": 1693.05,
+          "volume": 9690
+        },
+        {
+          "strike": 56400,
+          "optionType": "PE",
+          "securityId": 59050,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56400-PE",
+          "premium": 98.25,
+          "volume": 307230
+        },
+        {
+          "strike": 56500,
+          "optionType": "CE",
+          "securityId": 59055,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56500-CE",
+          "premium": 1610,
+          "volume": 65760
+        },
+        {
+          "strike": 56500,
+          "optionType": "PE",
+          "securityId": 59056,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56500-PE",
+          "premium": 110,
+          "volume": 1428270
+        },
+        {
+          "strike": 56600,
+          "optionType": "CE",
+          "securityId": 59057,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56600-CE",
+          "premium": 1521.4,
+          "volume": 9240
+        },
+        {
+          "strike": 56600,
+          "optionType": "PE",
+          "securityId": 59058,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56600-PE",
+          "premium": 123.95,
+          "volume": 255210
+        },
+        {
+          "strike": 56700,
+          "optionType": "CE",
+          "securityId": 59059,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56700-CE",
+          "premium": 1430,
+          "volume": 17100
+        },
+        {
+          "strike": 56700,
+          "optionType": "PE",
+          "securityId": 59060,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56700-PE",
+          "premium": 136.05,
+          "volume": 354690
+        },
+        {
+          "strike": 56800,
+          "optionType": "CE",
+          "securityId": 59061,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56800-CE",
+          "premium": 1358.3,
+          "volume": 28890
+        },
+        {
+          "strike": 56800,
+          "optionType": "PE",
+          "securityId": 59074,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56800-PE",
+          "premium": 153.95,
+          "volume": 495060
+        },
+        {
+          "strike": 56900,
+          "optionType": "CE",
+          "securityId": 59077,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56900-CE",
+          "premium": 1261.95,
+          "volume": 39180
+        },
+        {
+          "strike": 56900,
+          "optionType": "PE",
+          "securityId": 59078,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56900-PE",
+          "premium": 168.65,
+          "volume": 515700
+        },
+        {
+          "strike": 57000,
+          "optionType": "CE",
+          "securityId": 59079,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57000-CE",
+          "premium": 1182,
+          "volume": 839610
+        },
+        {
+          "strike": 57000,
+          "optionType": "PE",
+          "securityId": 59080,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57000-PE",
+          "premium": 190.15,
+          "volume": 3296940
+        },
+        {
+          "strike": 57100,
+          "optionType": "CE",
+          "securityId": 59081,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57100-CE",
+          "premium": 1108,
+          "volume": 102660
+        },
+        {
+          "strike": 57100,
+          "optionType": "PE",
+          "securityId": 59082,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57100-PE",
+          "premium": 214.5,
+          "volume": 964080
+        },
+        {
+          "strike": 57200,
+          "optionType": "CE",
+          "securityId": 59083,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57200-CE",
+          "premium": 1029.7,
+          "volume": 356040
+        },
+        {
+          "strike": 57200,
+          "optionType": "PE",
+          "securityId": 59084,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57200-PE",
+          "premium": 235.15,
+          "volume": 1260060
+        },
+        {
+          "strike": 57300,
+          "optionType": "CE",
+          "securityId": 59086,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57300-CE",
+          "premium": 952,
+          "volume": 847590
+        },
+        {
+          "strike": 57300,
+          "optionType": "PE",
+          "securityId": 59087,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57300-PE",
+          "premium": 261.75,
+          "volume": 1712280
+        },
+        {
+          "strike": 57400,
+          "optionType": "CE",
+          "securityId": 59088,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57400-CE",
+          "premium": 882.9,
+          "volume": 1056990
+        },
+        {
+          "strike": 57400,
+          "optionType": "PE",
+          "securityId": 59089,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57400-PE",
+          "premium": 288.9,
+          "volume": 2095020
+        },
+        {
+          "strike": 57500,
+          "optionType": "CE",
+          "securityId": 59090,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57500-CE",
+          "premium": 805.1,
+          "volume": 4241850
+        },
+        {
+          "strike": 57500,
+          "optionType": "PE",
+          "securityId": 59091,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57500-PE",
+          "premium": 320.2,
+          "volume": 5437440
+        },
+        {
+          "strike": 57600,
+          "optionType": "CE",
+          "securityId": 59092,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57600-CE",
+          "premium": 762.6,
+          "volume": 2614380
+        },
+        {
+          "strike": 57600,
+          "optionType": "PE",
+          "securityId": 59093,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57600-PE",
+          "premium": 358.5,
+          "volume": 4082190
+        },
+        {
+          "strike": 57700,
+          "optionType": "CE",
+          "securityId": 59094,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57700-CE",
+          "premium": 690,
+          "volume": 2650770
+        },
+        {
+          "strike": 57700,
+          "optionType": "PE",
+          "securityId": 59095,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57700-PE",
+          "premium": 393.3,
+          "volume": 3692820
+        },
+        {
+          "strike": 57800,
+          "optionType": "CE",
+          "securityId": 59096,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57800-CE",
+          "premium": 634,
+          "volume": 2245110
+        },
+        {
+          "strike": 57800,
+          "optionType": "PE",
+          "securityId": 59097,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57800-PE",
+          "premium": 430.05,
+          "volume": 2693310
+        },
+        {
+          "strike": 57900,
+          "optionType": "CE",
+          "securityId": 59098,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57900-CE",
+          "premium": 581.45,
+          "volume": 1643790
+        },
+        {
+          "strike": 57900,
+          "optionType": "PE",
+          "securityId": 59099,
+          "pmlSymbol": "BANKNIFTY-Aug2026-57900-PE",
+          "premium": 483,
+          "volume": 2045970
+        },
+        {
+          "strike": 58000,
+          "optionType": "CE",
+          "securityId": 59108,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58000-CE",
+          "premium": 529.05,
+          "volume": 5397600
+        },
+        {
+          "strike": 58000,
+          "optionType": "PE",
+          "securityId": 59109,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58000-PE",
+          "premium": 528,
+          "volume": 3671190
+        },
+        {
+          "strike": 58100,
+          "optionType": "CE",
+          "securityId": 59111,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58100-CE",
+          "premium": 477,
+          "volume": 954510
+        },
+        {
+          "strike": 58100,
+          "optionType": "PE",
+          "securityId": 59112,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58100-PE",
+          "premium": 580.3,
+          "volume": 1379730
+        },
+        {
+          "strike": 58200,
+          "optionType": "CE",
+          "securityId": 59114,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58200-CE",
+          "premium": 434.95,
+          "volume": 1290450
+        },
+        {
+          "strike": 58200,
+          "optionType": "PE",
+          "securityId": 59118,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58200-PE",
+          "premium": 612.35,
+          "volume": 1005180
+        },
+        {
+          "strike": 58300,
+          "optionType": "CE",
+          "securityId": 59119,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58300-CE",
+          "premium": 390.45,
+          "volume": 826050
+        },
+        {
+          "strike": 58300,
+          "optionType": "PE",
+          "securityId": 59123,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58300-PE",
+          "premium": 686.9,
+          "volume": 466170
+        },
+        {
+          "strike": 58400,
+          "optionType": "CE",
+          "securityId": 59124,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58400-CE",
+          "premium": 343.6,
+          "volume": 592920
+        },
+        {
+          "strike": 58400,
+          "optionType": "PE",
+          "securityId": 59125,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58400-PE",
+          "premium": 740.45,
+          "volume": 160200
+        },
+        {
+          "strike": 58500,
+          "optionType": "CE",
+          "securityId": 59126,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58500-CE",
+          "premium": 311,
+          "volume": 2169870
+        },
+        {
+          "strike": 58500,
+          "optionType": "PE",
+          "securityId": 59133,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58500-PE",
+          "premium": 806,
+          "volume": 313170
+        },
+        {
+          "strike": 58600,
+          "optionType": "CE",
+          "securityId": 59134,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58600-CE",
+          "premium": 270,
+          "volume": 477450
+        },
+        {
+          "strike": 58600,
+          "optionType": "PE",
+          "securityId": 59135,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58600-PE",
+          "premium": 865.85,
+          "volume": 30960
+        },
+        {
+          "strike": 58700,
+          "optionType": "CE",
+          "securityId": 59136,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58700-CE",
+          "premium": 242.65,
+          "volume": 398880
+        },
+        {
+          "strike": 58700,
+          "optionType": "PE",
+          "securityId": 59138,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58700-PE",
+          "premium": 932.75,
+          "volume": 14670
+        },
+        {
+          "strike": 58800,
+          "optionType": "CE",
+          "securityId": 59139,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58800-CE",
+          "premium": 217.8,
+          "volume": 457380
+        },
+        {
+          "strike": 58800,
+          "optionType": "PE",
+          "securityId": 59140,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58800-PE",
+          "premium": 1013.4,
+          "volume": 16410
+        },
+        {
+          "strike": 58900,
+          "optionType": "CE",
+          "securityId": 59141,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58900-CE",
+          "premium": 190,
+          "volume": 372990
+        },
+        {
+          "strike": 58900,
+          "optionType": "PE",
+          "securityId": 59144,
+          "pmlSymbol": "BANKNIFTY-Aug2026-58900-PE",
+          "premium": 1081.65,
+          "volume": 13590
+        },
+        {
+          "strike": 59000,
+          "optionType": "CE",
+          "securityId": 59145,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59000-CE",
+          "premium": 170,
+          "volume": 2698650
+        },
+        {
+          "strike": 59000,
+          "optionType": "PE",
+          "securityId": 59146,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59000-PE",
+          "premium": 1165,
+          "volume": 162090
+        },
+        {
+          "strike": 59100,
+          "optionType": "CE",
+          "securityId": 59147,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59100-CE",
+          "premium": 150.35,
+          "volume": 282180
+        },
+        {
+          "strike": 59100,
+          "optionType": "PE",
+          "securityId": 59148,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59100-PE",
+          "premium": 1231.25,
+          "volume": 4560
+        },
+        {
+          "strike": 59200,
+          "optionType": "CE",
+          "securityId": 59149,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59200-CE",
+          "premium": 127.2,
+          "volume": 396780
+        },
+        {
+          "strike": 59200,
+          "optionType": "PE",
+          "securityId": 59150,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59200-PE",
+          "premium": 1319.25,
+          "volume": 3570
+        },
+        {
+          "strike": 59300,
+          "optionType": "CE",
+          "securityId": 59151,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59300-CE",
+          "premium": 110.5,
+          "volume": 299040
+        },
+        {
+          "strike": 59300,
+          "optionType": "PE",
+          "securityId": 59152,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59300-PE",
+          "premium": 1401.5,
+          "volume": 6990
+        },
+        {
+          "strike": 59400,
+          "optionType": "CE",
+          "securityId": 59153,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59400-CE",
+          "premium": 100,
+          "volume": 223500
+        },
+        {
+          "strike": 59400,
+          "optionType": "PE",
+          "securityId": 59154,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59400-PE",
+          "premium": 1469.55,
+          "volume": 780
+        },
+        {
+          "strike": 59500,
+          "optionType": "CE",
+          "securityId": 59155,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59500-CE",
+          "premium": 84.5,
+          "volume": 1121550
+        },
+        {
+          "strike": 59500,
+          "optionType": "PE",
+          "securityId": 59156,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59500-PE",
+          "premium": 1576.95,
+          "volume": 16230
+        },
+        {
+          "strike": 59600,
+          "optionType": "CE",
+          "securityId": 59159,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59600-CE",
+          "premium": 75,
+          "volume": 281610
+        },
+        {
+          "strike": 59600,
+          "optionType": "PE",
+          "securityId": 59160,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59600-PE",
+          "premium": 1650,
+          "volume": 180
+        },
+        {
+          "strike": 59700,
+          "optionType": "CE",
+          "securityId": 59161,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59700-CE",
+          "premium": 63.1,
+          "volume": 203460
+        },
+        {
+          "strike": 59700,
+          "optionType": "PE",
+          "securityId": 59162,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59700-PE",
+          "premium": 1926.8,
+          "volume": 0
+        },
+        {
+          "strike": 59800,
+          "optionType": "CE",
+          "securityId": 59163,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59800-CE",
+          "premium": 54.6,
+          "volume": 160050
+        },
+        {
+          "strike": 59800,
+          "optionType": "PE",
+          "securityId": 59164,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59800-PE",
+          "premium": 2026.8,
+          "volume": 60
+        },
+        {
+          "strike": 59900,
+          "optionType": "CE",
+          "securityId": 59165,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59900-CE",
+          "premium": 48.75,
+          "volume": 148560
+        },
+        {
+          "strike": 59900,
+          "optionType": "PE",
+          "securityId": 59166,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59900-PE",
+          "premium": 2086.8,
+          "volume": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "lastUpdated": "2026-08-09T16:49:31.126Z",
+  "symbol": "NIFTY",
+  "expiry": "11-08-2026",
+  "spotPrice": 24570.7,
+  "macroTradeBias": "PUT_HEAVY_BULLISH",
+  "anchorStrike3rd": {
+    "strike": 24500,
+    "totalVolume": 401170705
+  },
+  "top5CallContracts": [
+    {
+      "strike": 24700,
+      "optionType": "CE",
+      "securityId": 41020,
+      "pmlSymbol": "NIFTY-Aug2026-24700-CE",
+      "premium": 66.35,
+      "volume": 178749220,
+      "distanceFrom40": 6.349999999999994,
+      "latestExpiry": "11-08-2026"
+    },
+    {
+      "strike": 24650,
+      "optionType": "CE",
+      "securityId": 41017,
+      "pmlSymbol": "NIFTY-Aug2026-24650-CE",
+      "premium": 86.05,
+      "volume": 158786485,
+      "distanceFrom40": 26.049999999999997,
+      "latestExpiry": "11-08-2026"
+    }
+  ],
+  "top5PutContracts": [
+    {
+      "strike": 24500,
+      "optionType": "PE",
+      "securityId": 41012,
+      "pmlSymbol": "NIFTY-Aug2026-24500-PE",
+      "premium": 63.45,
+      "volume": 280376460,
+      "distanceFrom40": 3.450000000000003,
+      "latestExpiry": "11-08-2026"
+    },
+    {
+      "strike": 24550,
+      "optionType": "PE",
+      "securityId": 41014,
+      "pmlSymbol": "NIFTY-Aug2026-24550-PE",
+      "premium": 82.25,
+      "volume": 264383925,
+      "distanceFrom40": 22.25,
+      "latestExpiry": "11-08-2026"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lastUpdated": "2026-06-15T02:19:07.582Z",
+  "symbol": "BANKNIFTY",
+  "expiry": "30-06-2026",
+  "spotPrice": 55912.5,
+  "macroTradeBias": "CALL_HEAVY_BEARISH",
+  "anchorStrike3rd": {
+    "strike": 55800,
+    "totalVolume": 2669160
+  },
+  "top5VolumeContracts": [
+    {
+      "strike": 60000,
+      "optionType": "CE",
+      "securityId": 57754,
+      "pmlSymbol": "BANKNIFTY-Jun2026-60000-CE",
+      "premium": 69.15,
+      "volume": 6346560,
+      "distanceFrom40": 29.150000000000006
+    },
+    {
+      "strike": 60500,
+      "optionType": "CE",
+      "securityId": 75838,
+      "pmlSymbol": "BANKNIFTY-Jun2026-60500-CE",
+      "premium": 44.75,
+      "volume": 990780,
+      "distanceFrom40": 4.75
+    },
+    {
+      "strike": 59900,
+      "optionType": "CE",
+      "securityId": 75824,
+      "pmlSymbol": "BANKNIFTY-Jun2026-59900-CE",
+      "premium": 75.25,
+      "volume": 98880,
+      "distanceFrom40": 35.25
+    },
+    {
+      "strike": 60200,
+      "optionType": "CE",
+      "securityId": 75830,
+      "pmlSymbol": "BANKNIFTY-Jun2026-60200-CE",
+      "premium": 58.6,
+      "volume": 47430,
+      "distanceFrom40": 18.6
+    },
+    {
+      "strike": 60300,
+      "optionType": "CE",
+      "securityId": 75832,
+      "pmlSymbol": "BANKNIFTY-Jun2026-60300-CE",
+      "premium": 53.4,
+      "volume": 45870,
+      "distanceFrom40": 13.399999999999999
+    }
+  ]
+}

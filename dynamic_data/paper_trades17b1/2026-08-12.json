@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-12",
+  "stats": {
+    "totalTrades": 0,
+    "wins": 0,
+    "losses": 0,
+    "expired": 0,
+    "interrupted": 0,
+    "openTrades": 0,
+    "enteredTrades": 0,
+    "waitingTrades": 0,
+    "winRate": 0,
+    "totalPnLPercent": 0
+  },
+  "trades": []
+}

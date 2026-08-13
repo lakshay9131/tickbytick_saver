@@ -1,0 +1,40 @@
+{
+  "lastUpdated": "2026-06-15T02:19:06.857Z",
+  "symbol": "NIFTY",
+  "expiry": "16-06-2026",
+  "spotPrice": 23418.45,
+  "macroTradeBias": "PUT_HEAVY_BULLISH",
+  "anchorStrike3rd": {
+    "strike": 23300,
+    "totalVolume": 454611885
+  },
+  "top5VolumeContracts": [
+    {
+      "strike": 23800,
+      "optionType": "CE",
+      "securityId": 50607,
+      "pmlSymbol": "NIFTY-Jun2026-23800-CE",
+      "premium": 76.85,
+      "volume": 185348735,
+      "distanceFrom40": 36.849999999999994
+    },
+    {
+      "strike": 23900,
+      "optionType": "CE",
+      "securityId": 50611,
+      "pmlSymbol": "NIFTY-Jun2026-23900-CE",
+      "premium": 49,
+      "volume": 115245845,
+      "distanceFrom40": 9
+    },
+    {
+      "strike": 23850,
+      "optionType": "CE",
+      "securityId": 50609,
+      "pmlSymbol": "NIFTY-Jun2026-23850-CE",
+      "premium": 61.6,
+      "volume": 77180740,
+      "distanceFrom40": 21.6
+    }
+  ]
+}

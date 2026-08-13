@@ -1,0 +1,173 @@
+{
+  "timestamp": 1786294171399,
+  "data": {
+    "NIFTY": {
+      "symbol": "NIFTY",
+      "expiry": "11-08-2026",
+      "spotPrice": 24570.7,
+      "macroTradeBias": "PUT_HEAVY_BULLISH",
+      "anchorStrike3rd": {
+        "strike": 24500,
+        "totalVolume": 401170705
+      },
+      "top5CallContracts": [
+        {
+          "strike": 24700,
+          "optionType": "CE",
+          "securityId": 41020,
+          "pmlSymbol": "NIFTY-Aug2026-24700-CE",
+          "premium": 66.35,
+          "volume": 178749220,
+          "distanceFrom40": 6.349999999999994,
+          "latestExpiry": "11-08-2026"
+        },
+        {
+          "strike": 24650,
+          "optionType": "CE",
+          "securityId": 41017,
+          "pmlSymbol": "NIFTY-Aug2026-24650-CE",
+          "premium": 86.05,
+          "volume": 158786485,
+          "distanceFrom40": 26.049999999999997,
+          "latestExpiry": "11-08-2026"
+        }
+      ],
+      "top5PutContracts": [
+        {
+          "strike": 24500,
+          "optionType": "PE",
+          "securityId": 41012,
+          "pmlSymbol": "NIFTY-Aug2026-24500-PE",
+          "premium": 63.45,
+          "volume": 280376460,
+          "distanceFrom40": 3.450000000000003,
+          "latestExpiry": "11-08-2026"
+        },
+        {
+          "strike": 24550,
+          "optionType": "PE",
+          "securityId": 41014,
+          "pmlSymbol": "NIFTY-Aug2026-24550-PE",
+          "premium": 82.25,
+          "volume": 264383925,
+          "distanceFrom40": 22.25,
+          "latestExpiry": "11-08-2026"
+        }
+      ]
+    },
+    "BANKNIFTY": {
+      "symbol": "BANKNIFTY",
+      "expiry": "25-08-2026",
+      "spotPrice": 57746.45,
+      "macroTradeBias": "PUT_HEAVY_BULLISH",
+      "anchorStrike3rd": {
+        "strike": 57900,
+        "totalVolume": 4413330
+      },
+      "top5CallContracts": [
+        {
+          "strike": 59000,
+          "optionType": "CE",
+          "securityId": 59145,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59000-CE",
+          "premium": 244.9,
+          "volume": 1690230,
+          "distanceFrom40": 94.9,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 59400,
+          "optionType": "CE",
+          "securityId": 59153,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59400-CE",
+          "premium": 154.6,
+          "volume": 272610,
+          "distanceFrom40": 4.599999999999994,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 59300,
+          "optionType": "CE",
+          "securityId": 59151,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59300-CE",
+          "premium": 173,
+          "volume": 203700,
+          "distanceFrom40": 23,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 59200,
+          "optionType": "CE",
+          "securityId": 59149,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59200-CE",
+          "premium": 193.25,
+          "volume": 162600,
+          "distanceFrom40": 43.25,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 59100,
+          "optionType": "CE",
+          "securityId": 59147,
+          "pmlSymbol": "BANKNIFTY-Aug2026-59100-CE",
+          "premium": 220.25,
+          "volume": 129060,
+          "distanceFrom40": 70.25,
+          "latestExpiry": "25-08-2026"
+        }
+      ],
+      "top5PutContracts": [
+        {
+          "strike": 56500,
+          "optionType": "PE",
+          "securityId": 59056,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56500-PE",
+          "premium": 172.95,
+          "volume": 549150,
+          "distanceFrom40": 22.94999999999999,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 56800,
+          "optionType": "PE",
+          "securityId": 59074,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56800-PE",
+          "premium": 231.8,
+          "volume": 204360,
+          "distanceFrom40": 81.80000000000001,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 56700,
+          "optionType": "PE",
+          "securityId": 59060,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56700-PE",
+          "premium": 202.65,
+          "volume": 197070,
+          "distanceFrom40": 52.650000000000006,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 56600,
+          "optionType": "PE",
+          "securityId": 59058,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56600-PE",
+          "premium": 190,
+          "volume": 157440,
+          "distanceFrom40": 40,
+          "latestExpiry": "25-08-2026"
+        },
+        {
+          "strike": 56400,
+          "optionType": "PE",
+          "securityId": 59050,
+          "pmlSymbol": "BANKNIFTY-Aug2026-56400-PE",
+          "premium": 156.9,
+          "volume": 116670,
+          "distanceFrom40": 6.900000000000006,
+          "latestExpiry": "25-08-2026"
+        }
+      ]
+    }
+  }
+}

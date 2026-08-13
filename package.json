@@ -1,0 +1,35 @@
+{
+  "name": "tickbytick_saver",
+  "version": "1.0.0",
+  "description": "Idea and Building  (13 august night 12 :14 am)\r   1) node js server price emitter which will buffer every 5 sec in memory and flush them to google drive",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshay9131/tickbytick_saver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshay9131/tickbytick_saver/issues"
+  },
+  "homepage": "https://github.com/lakshay9131/tickbytick_saver#readme",
+  "dependencies": {
+    "axios": "^1.16.1",
+    "axios-cookiejar-support": "^7.0.0",
+    "dotenv": "^17.4.2",
+    "events": "^3.3.0",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.6.2",
+    "path": "^0.12.7",
+    "puppeteer-core": "^25.3.0",
+    "request": "^2.88.2",
+    "stream": "^0.0.3",
+    "tough-cookie": "^6.0.1",
+    "ws": "^8.21.0"
+  }
+}
