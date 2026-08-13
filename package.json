@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Idea and Building  (13 august night 12 :14 am)\r   1) node js server price emitter which will buffer every 5 sec in memory and flush them to google drive",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+  "scripts": {   
     "start": "node server.js"
   },
   "repository": {
